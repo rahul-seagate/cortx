@@ -30,7 +30,7 @@ Before you contribute to the CORTX project, you'll have to **Fork** the CORTX re
      <p>
 
 1. Navigate to the repository homepage on GitHub.
-2. Click **Fork**
+2. Click     **Fork**
 3. Run the following commands in Shell:
    
    `$ git clone --recursive https://github.com/Seagate/<repository>.git`
